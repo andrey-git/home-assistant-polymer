@@ -14,7 +14,7 @@ import formatDateTime from './common/util/format_date_time';
 import formatTime from './common/util/format_time';
 
 window.hassUtil = window.hassUtil || {};
-console.log('zzz)
+console.log('zzz')
 const language = navigator.languages ?
   navigator.languages[0] : navigator.language || navigator.userLanguage;
 
